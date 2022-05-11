@@ -1,0 +1,13 @@
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\bin\Debug\appExemplomenu.exe.config
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\bin\Debug\appExemplomenu.exe
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\bin\Debug\appExemplomenu.pdb
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.csproj.AssemblyReference.cache
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.csproj.SuggestedBindingRedirects.cache
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.FrmAmarelo.resources
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.FrmAzul.resources
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.FrmVermelho.resources
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.Properties.Resources.resources
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.csproj.GenerateResource.cache
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.csproj.CoreCompileInputs.cache
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.exe
+H:\2022-3C1_49_TalesCosta\Etapa2\appExemplomenu\appExemplomenu\obj\Debug\appExemplomenu.pdb
